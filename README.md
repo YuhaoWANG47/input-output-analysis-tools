@@ -1,0 +1,2 @@
+# input-output-analysis-tools
+A tool package for advanced undergraduate and graduate students learning input-output analysis (especially suitable for those who use the textbook written by Ronald E. Miller and Peter D. Blair.) Capable of 1) building fundamental input-output models (including Leontief Models or Ghosh Models), 2) analyzing the commodity-by-industry accounting framework, 3) constructing interregional input-output models, and 4) conducting energy input-output analysis.
